@@ -1,0 +1,15 @@
+D:\Abramov_2\Abramov_2\bin\Debug\net6.0\Abramov_2.exe
+D:\Abramov_2\Abramov_2\bin\Debug\net6.0\Abramov_2.deps.json
+D:\Abramov_2\Abramov_2\bin\Debug\net6.0\Abramov_2.runtimeconfig.json
+D:\Abramov_2\Abramov_2\bin\Debug\net6.0\Abramov_2.dll
+D:\Abramov_2\Abramov_2\bin\Debug\net6.0\Abramov_2.pdb
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.csproj.AssemblyReference.cache
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.AssemblyInfoInputs.cache
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.AssemblyInfo.cs
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.csproj.CoreCompileInputs.cache
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.dll
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\refint\Abramov_2.dll
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.pdb
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\Abramov_2.genruntimeconfig.cache
+D:\Abramov_2\Abramov_2\obj\Debug\net6.0\ref\Abramov_2.dll
